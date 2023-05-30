@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+*{
+    box-sizing:border-box;
+    margin: 0px;
+}
+.main-heading{
+    color:#0048FF;
+    font-weight:bold;
+    padding-right:20px;
+}
+.top{
+    background-color:#ffffff;
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    justify-content:space-between;
+    padding:20px;
+}
+.menu{
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    justify-content:space-between;
+}
+
+.section{
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    justify-content:space-between;
+}
+
+.join-btn{
+    background-image:linear-gradient( to left,#0048FF, #0096FF);
+    height:30px;
+    width:120px;
+    border-width:0px;
+    border-radius:15px;
+    color:#ffffff;
+    margin-left:20px;
+}
+.search-icon{
+    padding-right:20px ;   
+}
+.heading{
+    padding-right:20px ;
+}
